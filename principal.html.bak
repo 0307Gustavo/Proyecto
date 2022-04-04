@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title>
+			Calimax
+		</title>
+		<link rel="shortcut icon" href="logo.png"> 
+		<link rel="stylesheet" href="estilo.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Hurricane&display=swap" rel="stylesheet">
+		
+		
+	</head>
+	<body>
+	<div class="div5">
+		<div class="div1">
+		
+			<img src=Calimax.png width="250" height="100"> 
+			<h1 id="fuente-varsity"> 
+				Mandado se dice Calimax
+			</h1>
+		</div>
+		
+		<div class="div2">
+			<marquee behavior="alternate"> 
+				<img src=cafe.jpg width="300" height="250"> 
+				<img src=ibarra.jpg width="300" height="250"> 
+				<img src=leche.jpg width="300" height="250">
+			</marquee>
+		</div>
+		
+		<center> 
+		
+			<div class="navegacion">
+			
+				<div class="navegacion-item"><A href="principal.html"><img src=principal.png><p class="navegacion-titulo">Principal</A></p></div>
+				<div class="navegacion-item"><A href="historia.html"><img src=historia.png><p class="navegacion-titulo">Historia</A></p></div>
+				<div class="navegacion-item"><A href="productos.html"><img src=productos.png><p class="navegacion-titulo">Productos</A></p></div>
+				<div class="navegacion-item"><A href="contacto.html"><img src=contacto.png><p class="navegacion-titulo">Contacto</A></p></div>
+			</div>
+	
+		</center>
+		<div class="div4">
+		<br>
+		<br>
+		<p id="fuente-google">
+			
+				
+				&copy; 2022. Derechos reservados. <br>
+				Desarrollado por: Gustavo Vazquez Montes
+				Matricula: 01
+				Grupo:604 <br>
+				Plantel Nueva Tijuana
+				
+			
+		</p>
+		<br>
+		
+		</div>
+	</div>
+	</body>
+
+</html>

@@ -1,0 +1,78 @@
+<html>
+	<head>
+		<title>
+			Calimax-Productos
+		</title>
+		<link rel="shortcut icon" href="logo.png"> 
+		<link rel="stylesheet" href="estilo.css">
+	</head>
+	<body>
+		<center>
+			<div class="div1">
+				<img src=Calimax.png width="200" height="100"> 
+				<h1 align="center"> 
+					Productos
+				</h1>
+			</div>
+			<div class="div2">
+				<div class="caja">
+					<img src=cafe.jpg width="200" height="200">
+					<div class="caja-texto">
+						Cafe
+					</div>
+					<div class="texto-adicional"> 
+						$69.40
+					</div>
+				</div>
+				<div class="caja">
+					<img src=leche.jpg width="200" height="200">
+					<div class="caja-texto">
+						Leche
+					</div>
+					<div class="texto-adicional"> 
+						3 x $75.00
+					</div>
+				</div>
+				<div class="caja">
+					<img src=ibarra.jpg width="200" height="200">
+					<div class="caja-texto">
+						Chocolate
+					</div>
+					<div class="texto-adicional"> 
+						$64.90
+					</div>
+				</div>
+			</div>
+			<div class="div3">
+			<center> 
+			
+				<div class="navegacion">
+				
+					<div class="navegacion-item"><A href="principal.html"><img src=principal.png></A><p class="navegacion-titulo">Principal</p></div>
+					<div class="navegacion-item"><A href="historia.html"><img src=historia.png></A><p class="navegacion-titulo">Historia</p></div>
+					<div class="navegacion-item"><A href="productos.html"><img src=productos.png></A><p class="navegacion-titulo">Productos</p></div>
+					<div class="navegacion-item"><A href="contacto.html"><img src=contacto.png></A><p class="navegacion-titulo">Contacto</p></div>
+				</div>
+		
+			</center>
+			</div>
+			<div class="div4">
+			<br>
+				
+			<p align="center">
+				
+					<b><i>
+					&copy; 2022. Derechos reservados. <br>
+					Desarrollado por: Gustavo Vazquez Montes
+					Matricula: 01
+					Grupo:604 <br>
+					Plantel Nueva Tijuana
+					</b></i>
+				</font>
+			</p>
+			</div>
+		
+		</center>
+	</body>
+
+</html>

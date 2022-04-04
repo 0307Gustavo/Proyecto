@@ -1,0 +1,22 @@
+table{
+	border-style: solid;
+	border-color: red;
+	border: 2;
+	width: 90%;
+	height:60%;
+}
+
+td{
+	background-color: #99FFFF;
+	text-align: center;
+}
+
+th{	
+	background-color:#D98880;
+
+}
+.sin{
+	border-style: transparent;
+	border:0;
+	background-color: transparent;
+}
